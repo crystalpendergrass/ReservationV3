@@ -1,6 +1,7 @@
 # ReservationV3
 
-Detailed documentation can be found in proj3-document-cp.docx.
+Detailed documentation can be found in proj3-document-cp.docx. Wireframes from application done in Balsamiq Mockups. 
+
 Detailed project requirements can be in Columbus Agency for Regional Travel v3.docx.
 
 The purpose of this assignment is to design and implement a Visual Basic program that uses a GUI with arrays and files to allow for data validation and multiple data entry.  
